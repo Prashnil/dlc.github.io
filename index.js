@@ -18,6 +18,7 @@ async function generateJoke() {
   console.log(joke);
   
   // set the new joke
+  
   jokeElement.innerHTML = joke.joke;
   
 }
