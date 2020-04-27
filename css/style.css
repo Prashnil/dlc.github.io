@@ -22,10 +22,16 @@ body {
     width: 500px;
 }
 
+
+
 h3 {
   margin: 0;
   letter-spacing: 3px;
   opacity: 0.5;
+}
+
+h5 {
+  margin: 0;
 }
 
 .joke {
@@ -33,6 +39,11 @@ h3 {
   line-height: 40px;
   margin: 50px auto;
   max-width: 600px;
+}
+
+.laugh-icon {
+  height: 70px;
+  width: auto;
 }
 
 .btn {
